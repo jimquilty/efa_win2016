@@ -1,0 +1,7 @@
+name: effortless-win2016-memberserver-cis
+title: Windows Server 2016 CIS Profile
+version: 1.0.0
+
+depends:
+  - name: cis-windows2016rtm-release1607-level1-memberserver
+    compliance: admin/cis-windows2016rtm-release1607-level1-memberserver
